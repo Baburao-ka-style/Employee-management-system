@@ -4,6 +4,8 @@ login Id's and password:
 
 All passwords are 123
 
+0)admin@me.com
+
 1)e@e.com
 2)employee2@example.com
 3)employee3@example.com
